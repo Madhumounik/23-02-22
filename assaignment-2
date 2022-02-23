@@ -1,0 +1,4 @@
+l=[12,32,42,56,7,8]
+l.reverse()
+print('Reverse of the list is:')
+print(l)
